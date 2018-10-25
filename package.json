@@ -30,20 +30,18 @@
     "coveralls": "npm run cover && istanbul-coveralls"
   },
   "dependencies": {
-    "glob-watcher": "^5.0.0",
-    "gulp-cli": "^2.0.0",
-    "undertaker": "^1.0.0",
-    "vinyl-fs": "^3.0.0"
+    "glob-watcher": "5.0.1",
+    "gulp-cli": "2.0.1",
+    "undertaker": "1.2.0",
+    "vinyl-fs": "3.0.3"
   },
   "devDependencies": {
-    "eslint": "^2.13.1",
-    "eslint-config-gulp": "^3.0.1",
-    "expect": "^1.20.2",
-    "istanbul": "^0.4.3",
-    "istanbul-coveralls": "^1.0.3",
-    "mkdirp": "^0.5.1",
-    "mocha": "^3.0.0",
-    "rimraf": "^2.2.5"
+    "eslint": "5.7.0",
+    "eslint-config-gulp": "3.0.1",
+    "expect": "23.6.0",
+    "mkdirp": "0.5.1",
+    "mocha": "5.2.0",
+    "rimraf": "2.6.2"
   },
   "keywords": [
     "build",
